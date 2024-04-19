@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👋 Hi, I’m @aamir-alii
+- 👀 I’m currently working on nodejs.
+- 💞️ I’m looking to collaborate on backend development.
+- 📫 You can reach me on - aamiralidesigner@gmail.com
 
 <!--
 **aamir-alii/aamir-alii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
