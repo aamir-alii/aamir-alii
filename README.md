@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m [@aamir-alii](https://github.com/aamir-ali)
+- 👋 Hi, I’m [@aamir-alii](https://github.com/aamir-alii)
 - 👀 I’m currently working on nodejs.
 - 💞️ I’m looking to collaborate on backend development.
 - 📫 You can reach me on - aamiralidesigner@gmail.com
