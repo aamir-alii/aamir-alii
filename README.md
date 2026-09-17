@@ -37,14 +37,14 @@
 
 | Project | Description |
 |---|---|
-| **[Bourbonville-Backend](https://github.com/aamir-alii/Bourbonville-Backend)** | NestJS API for a whiskey/bourbon community — bottle catalog, reviews, feed, watchlists, market & gamification |
-| **[Cigarvilla-Backend](https://github.com/aamir-alii/Cigarvilla-Backend)** | NestJS API for a cigar community — catalog, reviews, lounges/venues, feed & gamification |
-| **[human.design-backend](https://github.com/aamir-alii/human.design-backend)** | Human Design Business API — chart calculation, courses, Stripe/PayPal, PDFs, i18n |
-| **[human.design-client](https://github.com/aamir-alii/human.design-client)** | Next.js site for Human Design Business — charts, courses, ecommerce & chart reports |
-| **[fbm-backend](https://github.com/aamir-alii/fbm-backend)** | Facebook Marketplace crawler API — product listings, crawler jobs, admin config |
-| **[MWL_ServiceDesk](https://github.com/aamir-alii/MWL_ServiceDesk)** | Service desk system for a laundries operation — jobs, parts, trucks, employees, QR codes & TV boards |
-| **[PackFlow2](https://github.com/aamir-alii/PackFlow2)** | Production order system — orders, customers, suppliers, transport & team dashboards |
-| **[washtrack](https://github.com/aamir-alii/washtrack)** | Multi-org wash/laundry ops platform — kiosk, locations & Stripe billing |
+| **Bourbonville-Backend** | NestJS API for a whiskey/bourbon community — bottle catalog, reviews, feed, watchlists, market & gamification |
+| **Cigarvilla-Backend** | NestJS API for a cigar community — catalog, reviews, lounges/venues, feed & gamification |
+| **human.design-backend** | Human Design Business API — chart calculation, courses, Stripe/PayPal, PDFs, i18n |
+| **human.design-client** | Next.js site for Human Design Business — charts, courses, ecommerce & chart reports |
+| **fbm-backend** | Facebook Marketplace crawler API — product listings, crawler jobs, admin config |
+| **MWL_ServiceDesk** | Service desk system for a laundries operation — jobs, parts, trucks, employees, QR codes & TV boards |
+| **PackFlow2** | Production order system — orders, customers, suppliers, transport & team dashboards |
+| **washtrack** | Multi-org wash/laundry ops platform — kiosk, locations & Stripe billing |
 
 <br/>
 
